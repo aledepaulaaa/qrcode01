@@ -1,4 +1,4 @@
-import { Grid } from "@mui/material"
+import { Grid, Typography } from "@mui/material"
 
 export default function QrCode2() {
     return (
@@ -11,8 +11,11 @@ export default function QrCode2() {
                 alignItems="center"
                 flexDirection="column"
             >
+                <Typography textAlign="center">
+                    Qr Code 2
+                </Typography>
                 <img
-                    src="/img/img_01.jpg"
+                    src="/img/img_02.jpg"
                     alt="Puc-Tec"
                     width="300"
                     height="auto"
