@@ -28,7 +28,7 @@ export default function Home() {
             >
                 <QRCodeSVG
                     style={{ width: 200, height: 200, marginTop: 50 }}
-                    value="https://qrcode-gules-tau.vercel.app/qrcode1"
+                    value="https://qrcode-six-chi.vercel.app/qrcode1"
                     onError={handleError}
                     onLoad={handleScan}
                 />
@@ -42,7 +42,7 @@ export default function Home() {
             >
                 <QRCodeSVG
                     style={{ width: 200, height: 200, marginTop: 50 }}
-                    value="https://qrcode-gules-tau.vercel.app/qrcode2"
+                    value="https://qrcode-six-chi.vercel.app/qrcode2"
                     onError={handleError}
                     onLoad={handleScan}
                 />
