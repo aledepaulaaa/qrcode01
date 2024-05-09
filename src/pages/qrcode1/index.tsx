@@ -15,7 +15,7 @@ export default function QrCode1() {
                     src="/img/img_01.jpg"
                     alt="Puc-Tec"
                     width="300"
-                    height="auto"
+                    height="100%"
                     style={{ marginTop: 25 }}
                 />
             </Grid>
