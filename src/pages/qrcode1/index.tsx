@@ -11,9 +11,6 @@ export default function QrCode1() {
                 alignItems="center"
                 flexDirection="column"
             >
-                <Typography textAlign="center">
-                    Qr Code 1
-                </Typography>
                 <img
                     src="/img/img_01.jpg"
                     alt="Puc-Tec"
