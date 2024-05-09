@@ -12,10 +12,11 @@ export default function QrCode2() {
                 flexDirection="column"
             >
                 <img
-                    src="/img/avatargirl.jpg"
-                    alt="Coca Cola"
-                    width={200}
-                    height={200}
+                    src="/img/img_01.jpg"
+                    alt="Puc-Tec"
+                    width="300"
+                    height="auto"
+                    style={{ marginTop: 25 }}
                 />
             </Grid>
         </Grid>
